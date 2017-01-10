@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="_cache" type="PLAIN_TEXT" />
+      <mapping pattern="DEPLOY_FILES" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkkep" type="PLAIN_TEXT" />
+      <mapping pattern="sdsadasd" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
