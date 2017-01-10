@@ -1,0 +1,13 @@
+<templateSet group="IOTS">
+  <template name="fhm" value="&lt;FormattedHTMLMessage id=&quot;$ID$&quot;/&gt;" description="FormattedHTMLMessage" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="MESSAGE_ID" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fhmi" value="import {FormattedHTMLMessage} from 'react-intl';" description="import {FormattedHTMLMessage} from 'react-intl';" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

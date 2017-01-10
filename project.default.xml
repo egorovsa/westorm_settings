@@ -8,6 +8,32 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="admin" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Stylus" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
     </defaultProject>
   </component>
 </application>

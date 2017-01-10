@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="FLUX_CONTAINER" value="import * as React from 'react';&#10;import {Container} from 'flux/utils';&#10;&#10;interface Props{&#10;&#10;}&#10;&#10;interface State{&#10;    $&lt;сamelCase(name)&gt;$: TodoStore.State&#10;}&#10;&#10;class C extends React.Component&lt;Props, State&gt;{&#10;    static getStores(){&#10;        return [&#10;            TodoStore.store&#10;        ];&#10;    }&#10;&#10;    static calculateState(){&#10;        return {&#10;           todoStore: TodoStore.store.getState()&#10;        }&#10;    }&#10;&#10;    public render(){&#10;        console.log(this.state.todoStore)&#10;        return &lt;div className=&quot;jumbotron&quot;&gt;&#10;            &lt;h1&gt;TODO FLUX&lt;/h1&gt;&#10;            &lt;SearchInput/&gt;&#10;            &lt;ul className=&quot;list-group&quot;&gt;&#10;                {this.state.todoStore.todoData.map((item:TodoStore.Todo, i) =&gt; &lt;TodoItem key={i} id={item.id} title={item.title}/&gt;)}&#10;            &lt;/ul&gt;&#10;        &lt;/div&gt;;&#10;    }&#10;}&#10;&#10;export var Todo = Container.create(C);" description="ssss" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,21 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+</keymap>
