@@ -4,18 +4,19 @@
       <mapping ext="glsl" type="C++" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
-      <mapping pattern="del" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="del" type="PLAIN_TEXT" />
       <mapping ext="iss" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
