@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="glsl" type="C++" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="pages-action.ts" type="PLAIN_TEXT" />
+      <mapping pattern=".editconfig" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="input-range.styl" type="PLAIN_TEXT" />
+      <mapping pattern="del" type="PLAIN_TEXT" />
+      <mapping ext="iss" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
