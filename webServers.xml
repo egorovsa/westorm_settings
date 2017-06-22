@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a1a8c06-07fb-41d9-8210-3144ef38728b" name="intermagf" url="http://intermag33.ru">
+        <fileTransfer host="intermag33.ru" port="21" rootFolder="/var/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
