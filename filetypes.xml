@@ -13,15 +13,16 @@
       <mapping ext="iss" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="Team Foundation file" />
     </extensionMap>
   </component>
 </application>
