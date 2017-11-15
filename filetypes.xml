@@ -8,11 +8,12 @@
       <mapping pattern="pages-action.ts" type="PLAIN_TEXT" />
       <mapping pattern="apses27" type="PLAIN_TEXT" />
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
-      <mapping pattern="input-range.styl" type="PLAIN_TEXT" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="input-range.styl" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="del" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".jscramblerrc" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="iss" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
