@@ -4,7 +4,7 @@
     <property name="created">2017-01-13T11:45:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-04-04T17:54:51</property>
+    <property name="modified">2018-04-04T18:05:19</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -22,9 +22,19 @@
         <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="8bd4ff" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="d4d674" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="8bd4ff" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
