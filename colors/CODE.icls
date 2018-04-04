@@ -4,16 +4,24 @@
     <property name="created">2017-01-13T11:45:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-23T17:58:19</property>
+    <property name="modified">2018-04-04T17:54:51</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="1e1e1e" />
+  </colors>
   <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="d4d674" />
@@ -45,6 +53,13 @@
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="c27d62" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TS.CLASS">
