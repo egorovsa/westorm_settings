@@ -5,6 +5,7 @@
         <entry key="JSX Harmony" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="SqlEditorOptions">
