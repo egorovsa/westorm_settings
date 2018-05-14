@@ -1,4 +1,4 @@
-<code_scheme name="Default (13)">
+<code_scheme name="Default (13)" version="173">
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -22,7 +22,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
@@ -42,7 +42,6 @@
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
