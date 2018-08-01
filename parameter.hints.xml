@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript JSX">
+        <added pattern="LocaleService.init(store)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
