@@ -25,7 +25,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
